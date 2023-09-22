@@ -1,0 +1,15 @@
+C:\Users\sabin\bootcamp\personal_projects\ASP.NET-practice\bin\Debug\net6.0\ASP.NET-practice.exe
+C:\Users\sabin\bootcamp\personal_projects\ASP.NET-practice\bin\Debug\net6.0\ASP.NET-practice.deps.json
+C:\Users\sabin\bootcamp\personal_projects\ASP.NET-practice\bin\Debug\net6.0\ASP.NET-practice.runtimeconfig.json
+C:\Users\sabin\bootcamp\personal_projects\ASP.NET-practice\bin\Debug\net6.0\ASP.NET-practice.dll
+C:\Users\sabin\bootcamp\personal_projects\ASP.NET-practice\bin\Debug\net6.0\ASP.NET-practice.pdb
+C:\Users\sabin\bootcamp\personal_projects\ASP.NET-practice\obj\Debug\net6.0\ASP.NET-practice.csproj.AssemblyReference.cache
+C:\Users\sabin\bootcamp\personal_projects\ASP.NET-practice\obj\Debug\net6.0\ASP.NET-practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabin\bootcamp\personal_projects\ASP.NET-practice\obj\Debug\net6.0\ASP.NET-practice.AssemblyInfoInputs.cache
+C:\Users\sabin\bootcamp\personal_projects\ASP.NET-practice\obj\Debug\net6.0\ASP.NET-practice.AssemblyInfo.cs
+C:\Users\sabin\bootcamp\personal_projects\ASP.NET-practice\obj\Debug\net6.0\ASP.NET-practice.csproj.CoreCompileInputs.cache
+C:\Users\sabin\bootcamp\personal_projects\ASP.NET-practice\obj\Debug\net6.0\ASP.NET-practice.dll
+C:\Users\sabin\bootcamp\personal_projects\ASP.NET-practice\obj\Debug\net6.0\refint\ASP.NET-practice.dll
+C:\Users\sabin\bootcamp\personal_projects\ASP.NET-practice\obj\Debug\net6.0\ASP.NET-practice.pdb
+C:\Users\sabin\bootcamp\personal_projects\ASP.NET-practice\obj\Debug\net6.0\ASP.NET-practice.genruntimeconfig.cache
+C:\Users\sabin\bootcamp\personal_projects\ASP.NET-practice\obj\Debug\net6.0\ref\ASP.NET-practice.dll
